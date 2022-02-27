@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief narrative, or, The remonstrance of John Kersey, sometimes chief clerk of the Trinity-House of Deptford-Strond in the county of Kent with his just right to the said office truly represented ; also, the cause of his dismission in the year 1648, by the usurped power then governing ; with his several addresses to the corporation, since His Majesties happy restauration, but no re-admission.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87702</idno>
+            <idno type="STC">Wing K351</idno>
+            <idno type="STC">ESTC R43872</idno>
+            <idno type="EEBO-CITATION">42475752</idno>
+            <idno type="OCLC">ocm 42475752</idno>
+            <idno type="VID">151201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2249:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief narrative, or, The remonstrance of John Kersey, sometimes chief clerk of the Trinity-House of Deptford-Strond in the county of Kent with his just right to the said office truly represented ; also, the cause of his dismission in the year 1648, by the usurped power then governing ; with his several addresses to the corporation, since His Majesties happy restauration, but no re-admission.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>N.B. The "Mr. Peapes" referred to on p. 13 is John Pepys (1641-1677), younger brother of Samuel Pepys (1633-1703), the diarist, who obtained the post for John Pepys. Cf. DNB, v. 15, p. 808.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kersey, John, --  of Trinity House.</term>
+               <term>Pepys, John, 1641-1700.</term>
+               <term>Trinity House (London, England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151201:1" rendition="simple:additions"/>
+            <p>A BRIEF NARRATIVE, OR THE REMONSTRANCE OF <hi>JOHN KERSEY,</hi> Sometimes Chief Clerk of the <hi>Trinity-Houſe</hi> of <hi>Deptford-Strond</hi> in the County of <hi>Kent,</hi> with his juſt Right to the ſaid Office truly repreſented.</p>
+            <p>
+               <hi>ALSO,</hi> The Cauſe of his Diſmiſſion in the Year 1648, by the Uſurped Power then Governing.</p>
+            <p>WITH HIS Several Addreſſes to the Corporation, ſince His Majeſties Happy Reſtauration, but no Re-admiſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151201:2"/>
+            <pb n="1" facs="tcp:151201:2"/>
+            <head>A Brief Narrative of the <hi>CASE</hi> of <hi>John Kerſey</hi> ſometimes Chief Clerk of the <hi>Trinity-Houſe</hi> of <hi>Deptford-Srond</hi> in the County of <hi>Kent,</hi> &amp;c.</head>
+            <p>
+               <hi>INprimis,</hi> He the ſaid <hi>John Kerſey</hi> was received in the Year 1636, by M<hi rend="sup">r</hi> 
+               <hi>Joſias Best,</hi> then Clerk of the <hi>Trinity-Houſe</hi> aforeſaid, as his Servant, or Under-Clerk; and continued in that condi<g ref="char:EOLhyphen"/>tion about 5 years.</p>
+            <p>At the expiration of which Term, <hi>Joſias Beſt</hi> vo<g ref="char:EOLhyphen"/>luntarily ſurrenders his place to the Corporation, recommending <hi>John Kerſey</hi> to their Service to ſuc<g ref="char:EOLhyphen"/>ceed him.</p>
+            <p>The <hi>Trinity-Houſe,</hi> in conſideration of <hi>John Kerſey</hi>'s good Service, Demeanor, and Ability, elect and chuſe him their Clerk, without putting any one in com<g ref="char:EOLhyphen"/>petition with him, and ſo to continue ſo long as he ſhall behave himſelf as becometh an honeſt man<g ref="char:punc">▪</g> which is generally underſtood to be during Life.</p>
+            <p>
+               <hi>John Kerſey</hi> continueth eight years longer as chief Clerk of the <hi>Trinity-Houſe</hi> with general approba<g ref="char:EOLhyphen"/>tion, till in the year 1648, for promoting the Perſo<g ref="char:EOLhyphen"/>nal Treaty with His Late Majeſty of Bleſſed Memory,
+<pb n="2" facs="tcp:151201:3"/>for that very cauſe was outed of the ſaid Employ<g ref="char:EOLhyphen"/>ment, and the whole Corporation for Eleven years odd Months diſſolved by the Uſurped Tyrannical Power then Governing.</p>
+            <p>
+               <hi>John Kerſey</hi> makes his Addreſs by Petition the 27<hi rend="sup">th</hi> of <hi>October</hi> 1660, to the <hi>Trinity-Houſe,</hi> to be re-admi<g ref="char:EOLhyphen"/>tted, finds but ¼ part of the Elder Brethren ſurviving, which were left in 1648; but the Corporation new modell'd, conſiſting of 31 perſons, according to its priſtine condition.</p>
+            <p>He receives this general Anſwer, That they could not do the Clerk they found there, ſo much wrong to eject him, as to do <hi>John Kerſey</hi> the right to receive him; and particularly the Corporation had power to chuſe their own Clerk: a Clerk they had choſen, and him they would ſtand by.</p>
+            <p>
+               <hi>The Petition before-mentioned was attended by</hi>
+               <list>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Fuller</hi> Biſhop of <hi>Kerry.</hi>
+                  </item>
+                  <item>Col. <hi>John Price</hi> of <hi>Hereford,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Needler</hi> of <hi>Grayes-Inn,</hi> Gent.</item>
+                  <item>
+                     <hi>Tho. Hulbert</hi> of <hi>Covent-Garden,</hi> Gent.</item>
+                  <item>
+                     <hi>Lancelot Burrell</hi> of <hi>Lond.</hi> Gent.</item>
+                  <item>
+                     <hi>Humphrey Bean</hi> of <hi>Lond.</hi> Merchant.</item>
+                  <item>
+                     <hi>William Clifton</hi> of <hi>Covent-Garden,</hi> Vintner.</item>
+                  <item>
+                     <hi>S<hi rend="sup">•</hi> Chriſtopher Guiſe</hi> of <hi>Glouceſter,</hi> K<hi rend="sup">t</hi> &amp; Baron<hi rend="sup">t</hi>.</item>
+                  <item>
+                     <hi>Robert Gardiner</hi> of <hi>London,</hi> Merchant.</item>
+               </list>
+            </p>
+            <p>Which Gentlemen, with ſome others, I entreated
+<pb n="3" facs="tcp:151201:3"/>that day to go along with me, and humbly beſought the Corporation to admit to them the hearing of ſuch things as might be ſaid and offered by me to the Corporation; and alſo to teſtifie of my Life and Con<g ref="char:EOLhyphen"/>verſation for the Twelve years laſt paſt, and par<g ref="char:EOLhyphen"/>ticularly what, and how I had acted for the Kings Friends in order to His Service; all which was ab<g ref="char:EOLhyphen"/>ſolutely denied me: the want of which Teſtimony hath, and doth ſtill hinder the publication of my Vindication.</p>
+            <p>After the denial of granting the Petition before mentioned, <hi>John Kerſey</hi> publiſhed to ſome Friends and Members of the Corporation, a Remonſtrance containing the Heads of the aforeſaid Petition, in theſe words:</p>
+            <div type="remonstrance">
+               <head>A Brief Remonſtrance of <hi>JOHN KERSEY,</hi> late Clerk of the <hi>Trinity-Houſe.</hi>
+               </head>
+               <opener>The Remonſtrant ſheweth,</opener>
+               <p>THat after the expiration of about five years Service as an Under-Clerk to his Predeceſſor <hi>Joſias Beſt,</hi> the Remonſtrant was by the general liking and approbation of the whole Corporation (the ſaid <hi>Joſias Beſt,</hi> for cauſes and conſiderations him thereunto moving, voluntarily reſigning his ſaid Office) elected in his room, and continued princi<g ref="char:EOLhyphen"/>pal Clerk therein for the ſpace of Eight Years more, and by an Order of the ſaid Corporation, Dated
+<pb n="4" facs="tcp:151201:4"/>the 22<hi rend="sup">th</hi> of <hi>May,</hi> 1641. Subſcribed by all the Cor<g ref="char:EOLhyphen"/>poration then preſent, enabled ſo to continue ſo long as he ſhould behave himſelf as ſhould become an ho<g ref="char:EOLhyphen"/>neſt man, which is generally underſtood during Life.</p>
+               <p>That the Remonſtrant promoting the Perſonal Treaty with the Late King of Bleſſed Memory, by all endeavors and intereſts, which were not ſmall, by reaſon of the great influence he had among Sea<g ref="char:EOLhyphen"/>men of the beſt quality, and the particular know<g ref="char:EOLhyphen"/>ledge he had how moſt of them ſtood affected as to Loyalty and Allegiance; the ſaid Treaty not happi<g ref="char:EOLhyphen"/>ly ſucceeding, the Petitioner was forced out of his ſaid Employment in 1648, by the Uſurped Tyranni<g ref="char:EOLhyphen"/>cal Power then governing, and alſo the whole Cor<g ref="char:EOLhyphen"/>poration for Eleven Years odd Months diſſolved.</p>
+               <p>The Remonſtrant, when the Perſonal Treaty was on foot, got an appearance at ſeveral times in the ſpace of ten days, of 468 Maſters and Commanders of Ships, of the moſt eminent belonging to the Port of <hi>London,</hi> who chearfully ſubſcribed to the Petition for a <hi>Perſonal Treaty;</hi> he alſo took up divers Letters from unknown perſons, directed to the <hi>Trinity-Houſe,</hi> and delivered them to the Corporation in full Court, when no perſon elſe would adventure to do it; the Scope and Tenor of which, was to incite and ſpur the Corporation to be active in that juncture of time, and to follow the example of divers Corporations, who had already appeared by Petition in this weighty Affair: which was accordingly done, though the
+<pb n="5" facs="tcp:151201:4"/>deplored ſucceſs anſwered not the Prayers and Hopes of His Majeſties True and Loyal Subjects.</p>
+               <p>The Remonſtrant by his own Intereſt with the Searchers at <hi>Graveſend,</hi> got paſſage for the Biſhop of <hi>Kerry,</hi> and Col. <hi>John Price,</hi> with divers other proſcribed Gentlemen that were active for His Majeſty and His Affairs, who in ſafety arrived at divers Ports be<g ref="char:EOLhyphen"/>yond the Seas, though to the hazard of the Remon<g ref="char:EOLhyphen"/>ſtrant's Life and Office.</p>
+               <p>That upon the re-aſſumption of the Secluded Members of Parliament, the ſurviving Wardens and Elder Brethren of the <hi>Trinity-Houſe</hi> re-aſſumed their places alſo, which were but Eight of Thirty &amp; one, and Petitioned the Parliament, that they might new Model their Corporation; which was granted, and an Act paſſed to impower them ſo to do.</p>
+               <p>The Remonſtrant, according to his Duty, peti<g ref="char:EOLhyphen"/>tioned the <hi>Trinity-Houſe</hi> the 27<hi rend="sup">th</hi> of <hi>October,</hi> 1661; but being denied to have any Friend accompany him at the Hearing, which in reaſon ought to have been free, they only put him to the proof of one particular mentioned in the foregoing Petition, <hi>viz.</hi> So long to continue as he ſhould behave himſelf as ſhould be<g ref="char:EOLhyphen"/>come an honeſt man.</p>
+               <p>The Remonſtrant did it by a Copy of the Origi<g ref="char:EOLhyphen"/>nal, which by fortune he had preſerved; but their Faith was as in many other matters, of no ſuch long extent as to believe it, unleſs I could prove it out of their own Record. This put me hard to't; for my Succeſſor <hi>Edward Keeling,</hi> accompting himſelf as one
+<pb n="6" facs="tcp:151201:5"/>of the then Elder Brethren, and ſitting among them (by what power I know not) after ſome Hums and ſcrew<g ref="char:EOLhyphen"/>ed countenances, as if he had expected a Revelation, the modern way being not quite out of faſhion, affir<g ref="char:EOLhyphen"/>med, he had taken more pains than any man in view<g ref="char:EOLhyphen"/>ing and ſearching the Records of the <hi>Trinity-Houſe,</hi> but could never find any to that purpoſe. Here was my Definitive Sentence, and all my hopes vaniſht; for I eaſily perceived that particular intereſt ſwayed more for the preſent Clerk than for me. But Provi<g ref="char:EOLhyphen"/>dence gave me yet a thread to hold by; Capt. <hi>Brian Harriſon,</hi> one of the former Elder Brethren, ſitting then as Warden, or Deputy-Warden, affirmed in my favour, that ſuch words he well remembred was in the Order whereby I was made Clerk, and wiſhed me to recollect what manner of Book it was in, and he would be at the trouble to ſeek it out, and did ſo; I turned readily to it, but with much fear it had been expunged by thoſe that durſt do any thing; but they had miſt it, and ſo had <hi>Edward Keeling;</hi> for I found it and read it, which, in my thoughts, made much for me. The Corporation would not inſiſt much upon Argument, deſired me to withdraw, and upon return, received this Anſwer as before mentioned, from ſome of them, That they found a Clerk at their new Modelling, and conceive they cannot do him that wrong, as to eject him, and me that right as to receive me; and from the Chair-man, in the name and behalf of thoſe preſent, That they did con<g ref="char:EOLhyphen"/>ceive they had power to chuſe their own Clerk; a
+<pb n="7" facs="tcp:151201:5"/>Clerk they had choſen, and him they would ſtand by.</p>
+               <p>The caſe is therefore clear, that <hi>John Kerſey</hi> was outed for promoting the Perſonal Treaty, and for no other cauſe, as by two Certificates, one under the hands of a great number of the beſt Maſters of Ships belonging to this Port of <hi>London,</hi> and another under the hands of divers of the moſt eminent Mer<g ref="char:EOLhyphen"/>chants, and other perſons dwelling and reſiding a<g ref="char:EOLhyphen"/>bout this City, may appear; the Copies whereof ſhall hereafter be ſet forth.</p>
+               <p>That the promoting the Perſonal Treaty, was a Service to the King, and to all Loyal Subjects, though it did not happily ſucceed, and no crime or miſde<g ref="char:EOLhyphen"/>meanor, therefore cannot continue outed unleſs they will own the Power legal that ejected him.</p>
+               <p>That the if Will of ſome few of the Corporation, which ſways the reſt, joyned with a particular Inte<g ref="char:EOLhyphen"/>reſt, which may be made out, muſt be a Law:</p>
+               <p>It is humbly offered to the whole Corporation, that if it may not be thought fit that the Remonſtrant be continued for the future to officiate in the ſaid Of<g ref="char:EOLhyphen"/>fice of Clerk of the <hi>Trinity-Houſe,</hi> with all its uſual and former Perquiſites and Fees heretofore belong<g ref="char:EOLhyphen"/>ing, or in any wiſe appertaining to the ſame:</p>
+               <p>That then ſome other experienced and able perſon of known Loyalty and Fidelity proper for that em<g ref="char:EOLhyphen"/>ployment, may ſucceed in that place hereafter, that ſo thoſe that are, and have been True and Loyal to His Majeſty in his greateſt Exigences, may receive and
+<pb n="8" facs="tcp:151201:6"/>communicate of thoſe happy Benefits which others, not having the leaſt merited the ſame, do now moſt comfortably enjoy: And to the intent that all me<g ref="char:EOLhyphen"/>mory of that horrid Uſurper and Tyrant <hi>O. Cromwel</hi> may be expunged and obliterated, the Remonſtrant further implores,</p>
+               <p>That the Branches and Remains of him may be expelled, to make room for ſuch a perſon who may wave all private Intereſt for the Service of His Ma<g ref="char:EOLhyphen"/>jeſty, and Advance of the Publick, as the Remon<g ref="char:EOLhyphen"/>ſtrant hath been accuſtomed to do, and for which he hath this Twelve years continued a patient, though extream Sufferer.</p>
+            </div>
+            <div type="continuation_of_text">
+               <p>The aforeſaid Remonſtrance coming to view (as no queſtion but it did) of ſome of the Grandees of <hi>Trinity-Houſe,</hi> was no whit pleaſant, inſomuch as it is more than probable they might be quit with me at the next turn. It fortuned that <hi>Ralph Keeling</hi> died in <hi>Auguſt</hi> following; having timely notice thereof, I made a ſecond Addreſs by Petition again, verily be<g ref="char:EOLhyphen"/>lieving no Obſtacle; but found ſuch ſucceſs as before. The Copy of that Petition likewiſe followeth.</p>
+            </div>
+            <div type="petition">
+               <pb n="9" facs="tcp:151201:6"/>
+               <head>To the Right Worſhipful the Maſter, Wardens, and Aſſistants, <hi>&amp;c.</hi>
+               </head>
+               <head type="sub">The Petition of <hi>John Kerſey,</hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>THat in <hi>October</hi> laſt the Petitioner made his Ad<g ref="char:EOLhyphen"/>dreſs by Petition to this Eminent Corporation, ſetting forth the time of his Admiſſion, his Continu<g ref="char:EOLhyphen"/>ance, and his <hi>Exit,</hi> and the grounds and cauſes of either of them.</p>
+               <p>That there was one clauſe in the ſaid Petition, <hi>viz.</hi> (ſo to continue ſo long as he behaved himſelf as ſhould become an honeſt man, which was incluſive in the Order when your Petitioner was conſtituted Clerk, and Signed by the whole Corporation then preſent) was in hard meaſure to your Petitioner put to proof, and no acknowledgment of any ſuch Record by the late Clerk, the Petitioners pretended Succeſſor; but upon ſtrict ſearch of the Regiſter, was found to be re<g ref="char:EOLhyphen"/>corded in the ſame Terms as the Petitioner ſet forth.</p>
+               <p>That the Petitioner loſt the ſaid Employment, not for any Miſdemeanor or inſufficiency, but for promo<g ref="char:EOLhyphen"/>ting the Perſonal Treaty with the Late King <hi>Charles</hi> of Bleſſed Memory, the unfortunate ſucceſs whereof, involved not only the Petitioner, but this whole Cor<g ref="char:EOLhyphen"/>poration in a general Diſſolution for Twelve Years.</p>
+               <p>That your Petitioner had more than hopes of re-aſſuming his ſaid Office at the Reſtauration of His Sacred Majeſty, knowing ſo many of the Elder Bre<g ref="char:EOLhyphen"/>thren
+<pb n="10" facs="tcp:151201:7"/>as were then alive, without any let or diſtur<g ref="char:EOLhyphen"/>bance reaſſume theirs: But when your Petitioner, as in duty bound, applied himſelf by Petition, found this Anſwer from ſome of the Corporation, That they could not do a man whom they found in the Em<g ref="char:EOLhyphen"/>ployment, ſo much wrong to eject him, and right as to receive the Petitioner: and upon further reſult of the Corporation, your Petitioner received a more harſh Anſwer, which he hath had ſad cauſe to re<g ref="char:EOLhyphen"/>member.</p>
+               <p>Notwithſtanding your Petitioner hopes that up<g ref="char:EOLhyphen"/>on this ſecond Review of the Petitioners long ſuf<g ref="char:EOLhyphen"/>fering, his preſent neceſſities, and the loſs of reputa<g ref="char:EOLhyphen"/>tion, if not re-admitted, this juncture of time alſo occurring whereby no room is left for pretences of injury for, or to any other perſon;</p>
+               <p>He prays, That putting in caution for his fair Demeanor and Fidelity, he may receive the influence of your Worſhips Favour, by his re-admiſſion, or ſome moderate and conſcionable Satisfaction for his loſs of the prime of his time ſpent in your Worſhips Service, and Disburſement of a conſiderable Sum of Money (though in his own wrong) to his Predeceſ<g ref="char:EOLhyphen"/>ſor, at the time of his Conſtitution.</p>
+               <closer>And your Petitioner ſhall pray, <hi>&amp;c.</hi>
+               </closer>
+            </div>
+            <div type="continuation_of_text">
+               <p>This Second Petition was accompanied with the ſame perſons in the Month of <hi>Auguſt</hi> following, and
+<pb n="11" facs="tcp:151201:7"/>I was received with very fair words and ſeeming re<g ref="char:EOLhyphen"/>ſpect; but all were <hi>Chimaera's;</hi> my Friends denied as before, to hear any thing I might offer them.</p>
+               <p>The Court being ſate, I was call'd in among Four others (Suitors for the place) we were all anſwer<g ref="char:EOLhyphen"/>ed according to cuſtom, That the Corporation would take our deſires into conſiderrtion; that the Deſign was laid, the Knight muſt always beat the Giant; <hi>William Witherington,</hi> who had been a Sub-Clerk there for ſome years, was choſen to counter-ballance the Petitioner, which elſe had carried it from the reſt; but the Squib is not yet at the end of the Rope. <hi>Witherington</hi> after a formal poſſeſſion of the place ſome few days, falls ſick, and although there were fair hopes of Death, recovers; yet however the Deſign for M<hi rend="sup">r</hi> 
+                  <hi>Askew</hi> muſt hold, who (to ſay truth) was better qualified in other Myſteries than in Clerkſhip. Here the Remonſtrant pleads ignorance by what Device they pull'd in <hi>Askew</hi> by head and ſhoulders, and laid aſide <hi>Witherington,</hi> who is but a Sub-Clerk to this day.</p>
+            </div>
+            <div type="section">
+               <pb n="12" facs="tcp:151201:8"/>
+               <head>The Copies of Two Certificates, one of Commanders of Ships belonging to this Port of <hi>London;</hi> the other of Merchants, and others of eminent Qua<g ref="char:EOLhyphen"/>lity, in the behalf of the <hi>Remonſtrant,</hi> ſigni<g ref="char:EOLhyphen"/>fying his good Carriage, Behaviour and Conver<g ref="char:EOLhyphen"/>ſation.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>VVE whoſe Names are here-under written, being Maſters and Owners of Shipping, and related to Marine Affairs, having had long know<g ref="char:EOLhyphen"/>ledge and experience of the Bearer hereof, <hi>John Kerſey,</hi> formerly Clerk of the <hi>Guild-Fraternity</hi> or Brotherhood of the <hi>Trinity-Houſe</hi> of <hi>Deptford-Strond</hi> in the County of <hi>Kent,</hi> do hereby Certifie and Inform, that the ſaid <hi>John Kerſey</hi> being duly, lawfully and generally elected and choſen Clerk of the ſaid Fraternity, did exerciſe the ſaid Office for many years, to the gene<g ref="char:EOLhyphen"/>ral liking and approbation of the ſaid Corporation, and of all ſuch other perſons as had occaſion to make uſe of him in his ſaid Office and Employment, being a well ordered perſon, courteous and affable in his Converſation, of good ability in the performance of the Employment aforeſaid; and withal, both ready and willing to give every man Diſpatches according to their ſeveral and earneſt occaſions. And that for ſo much as we know, or have ever heard, there was no diſlike againſt him by any of the ſaid Corporation: And this we are very certain and confident to affirm,
+<pb n="13" facs="tcp:151201:8"/>that he was never ejected or diſmiſſed by the ſaid Cor<g ref="char:EOLhyphen"/>poration for any cauſe of diſability, diſlike or misbe<g ref="char:EOLhyphen"/>haviour; but only upon the ſame cauſe and reaſon the whole Corporation aforeſaid was diſſolved; that is to ſay, for abetting, aiding, aſſiſting and promoting the Perſonal Treaty with His Late Majeſty of Bleſ<g ref="char:EOLhyphen"/>ſed Memory. In proſecution whereof, he (according to his continued Loyalty) was to the utmoſt of his power and intereſt, both active, earneſt and vigo<g ref="char:EOLhyphen"/>rous.</p>
+                     <closer>
+                        <dateline>
+                           <date>July 29, 1660.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Subſcribed by</hi> 40 <hi>Commanders, as aforeſaid; and Another of the ſame tenor, Subſcribed by</hi> 50 <hi>Merchants and other perſons of eminent quality.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>When M<hi rend="sup">r</hi> 
+                  <hi>Peapes</hi> entred, I knew not till above a Twelvemonth after; which ſaved me the labour of a Third Addreſs, and ſo there was nothing heard of me: Since M<hi rend="sup">r</hi> 
+                  <hi>Peapes</hi> his Death, I made another Addreſs, but had an ambiguous anſwer from Two Members of the Corporation: One affirmed the Buſineſs was done already; that is, there was a new Election; and the other told me, there would be no Election till four<g ref="char:EOLhyphen"/>teen days were paſt; yet upon <hi>Monday</hi> following, being an unuſual day for Meeting, there was a Court called, and M<hi rend="sup">r</hi> 
+                  <hi>Gibſon</hi> choſen; which prevented my Fourth Addreſs.</p>
+               <p>
+                  <hi>The Sight of this Paper to Ingenuous unbyaſſed perſons of the Corporation aforeſaid, that knew me not, Time having worn me out of remembrance, may perhaps give them a ſight of my Suf<g ref="char:EOLhyphen"/>ferings, and ſo conſequently may beget both Pity and Charity. I ſhall make further application to them as Time and Opportunity will direct, not intending willingly to quit my Right in the ſaid Office till the expiration of my Breath.</hi>
+               </p>
+               <closer>
+                  <signed>JOHN KERSEY.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
